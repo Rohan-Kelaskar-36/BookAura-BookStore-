@@ -1,0 +1,109 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"A story book presents a fictional narrative, weaving characters, events, and themes into an engaging tale for readers of all ages.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/book-with-fairies-flying-garden_1308-36771.jpg?t=st=1737265665~exp=1737269265~hmac=d74c32409d19b8d6e90bec9891aa050ef6426f646bca36b0082d31f9b432bde5&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"Space fiction",
+        "title":"Space books explore the mysteries of the universe, blending scientific knowledge with imaginative adventures set among stars, planets, and galaxies.",
+        "price":500,
+        "category":"Space",
+        "image":"https://img.freepik.com/free-vector/space-adventure-with-aliens-astronauts_1308-172108.jpg?t=st=1737265894~exp=1737269494~hmac=c8fd6937bf23ba34b93d219d96abec1d490f45e0e152dfca9affb035442b8b40&w=360"
+    },
+
+    {
+        "id":3,
+        "name":"History",
+        "title":"A history book examines past events, people, and societies, providing insights into how they  influenced the course of civilization.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/revolucion-mexicana-illustration-isolated-style_24911-114614.jpg?t=st=1737266056~exp=1737269656~hmac=a64ac3a29fa9a124c0012ff2c625259010982fbdda936845de9f09ba6f740033&w=740"
+    },
+
+    {
+        "id":4,
+        "name":"Biography",
+        "title":"A biography book explores the personal journey of a person, highlighting key moments, challenges, and accomplishments that shaped their life.",
+        "price":300,
+        "category":"Biography",
+        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1737266340~exp=1737269940~hmac=7f887a89191de5336f6b9ad1b9d0ab8274ca1c972a3caabd150cfeff86517e27&w=740"
+    },
+
+    {
+        "id":5,
+        "name":"Space fiction",
+        "title":"Space books delve into the wonders of outer space, exploring cosmic phenomena, space travel, and the possibilities of life beyond Earth.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/space-adventure-with-aliens-astronauts_1308-172108.jpg?t=st=1737265894~exp=1737269494~hmac=c8fd6937bf23ba34b93d219d96abec1d490f45e0e152dfca9affb035442b8b40&w=360"
+    },
+
+    {
+        "id":6,
+        "name":"History",
+        "title":"A history book explores significant events and figures from the past, offering a detailed account of how they impacted the world and its development.",
+        "price":20,
+        "category":"History",
+        "image":"https://img.freepik.com/free-vector/revolucion-mexicana-illustration-isolated-style_24911-114614.jpg?t=st=1737266056~exp=1737269656~hmac=a64ac3a29fa9a124c0012ff2c625259010982fbdda936845de9f09ba6f740033&w=740"
+    },
+
+    {
+        "id":7,
+        "name":"Biography",
+        "title":"A biography book provides a detailed account of someone's life, shedding light on their experiences, struggles, and contributions to society.",
+        "price":70,
+        "category":"biography",
+        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1737266340~exp=1737269940~hmac=7f887a89191de5336f6b9ad1b9d0ab8274ca1c972a3caabd150cfeff86517e27&w=740"
+    },
+
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"A story book transports readers into imaginative worlds through captivating plots, characters, and adventures.",
+        "price":90,
+        "category":"story",
+        "image":"https://img.freepik.com/free-vector/book-with-fairies-flying-garden_1308-36771.jpg?t=st=1737265665~exp=1737269265~hmac=d74c32409d19b8d6e90bec9891aa050ef6426f646bca36b0082d31f9b432bde5&w=740"
+    },
+
+    {
+        "id":9,
+        "name":"History",
+        "title":"A history book chronicles key moments, movements, and individuals from the past, helping to understand the evolution of societies and cultures.",
+        "price":150,
+        "category":"History",
+        "image":"https://img.freepik.com/free-vector/revolucion-mexicana-illustration-isolated-style_24911-114614.jpg?t=st=1737266056~exp=1737269656~hmac=a64ac3a29fa9a124c0012ff2c625259010982fbdda936845de9f09ba6f740033&w=740"
+    },
+
+    {
+    "id":10,
+        "name":"Story Book",
+        "title":"A story book unfolds a creative narrative, drawing readers into exciting or emotional journeys through the lives of its characters.",
+        "price":60,
+        "category":"story",
+        "image":"https://img.freepik.com/free-vector/book-with-fairies-flying-garden_1308-36771.jpg?t=st=1737265665~exp=1737269265~hmac=d74c32409d19b8d6e90bec9891aa050ef6426f646bca36b0082d31f9b432bde5&w=740"
+    },
+
+{
+    "id":11,
+    "name":"Biography",
+    "title":"A biography book tells the life story of an individual, offering insights into their experiences, achievements, and impact on the world.",
+    "price":800,
+    "category":"biography",
+    "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1737266340~exp=1737269940~hmac=7f887a89191de5336f6b9ad1b9d0ab8274ca1c972a3caabd150cfeff86517e27&w=740"
+},
+
+{
+    "id":12,
+    "name":"Space fiction",
+    "title":"Space books take readers on a journey through the vastness of the universe, offering thrilling tales of exploration, discovery, and extraterrestrial life.",
+    "price":100,
+    "category":"Space",
+    "image":"https://img.freepik.com/free-vector/space-adventure-with-aliens-astronauts_1308-172108.jpg?t=st=1737265894~exp=1737269494~hmac=c8fd6937bf23ba34b93d219d96abec1d490f45e0e152dfca9affb035442b8b40&w=360"
+}
+]
