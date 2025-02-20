@@ -31,7 +31,7 @@ function banner() {
             </label>
           </div>
           <div className="py-3">
-          <button className="btn btn-primary mt-3">Submit</button>
+          <button className="btn btn-primary mt-3" >Submit</button>
           </div>
         </div>
         <div className="sm:my-5 order-1 w-full md:w-1/2 mt-12 md:mt-32">

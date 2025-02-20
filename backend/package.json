@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "MERN project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan-Kelaskar-36/BookAura-BookStore-.git"
+  },
+  "author": "Rohan Kelaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohan-Kelaskar-36/BookAura-BookStore-/issues"
+  },
+  "homepage": "https://github.com/Rohan-Kelaskar-36/BookAura-BookStore-#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "nodemon": "^3.1.9"
+  }
+}
